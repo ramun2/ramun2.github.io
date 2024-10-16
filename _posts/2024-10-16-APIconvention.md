@@ -15,22 +15,22 @@
 - 슬래시가 없는 URI
     
     {  
-    &nbsp; "id": “string”,  
-    &nbsp; "name": "string",  
-    &nbsp; "description": "string”  
+     "id": “string”,  
+     "name": "string",  
+     "description": "string”  
     }
     
 - 슬래시가 있는 URI
     
     [  
-    &nbsp; {  
-    &nbsp; "id": “string”,   
-    &nbsp; "name": "string"  
-    &nbsp; },  
-    &nbsp; {   
-    &nbsp; "id": “string”,  
-    &nbsp; "name": "string"  
-    &nbsp; }  
+      {  
+     "id": “string”,   
+     "name": "string"  
+    },  
+    {   
+"id": “string”,  
+   "name": "string"  
+     }  
     ]
     
 ### 2. **resource를 명사로 나타내야한다**
