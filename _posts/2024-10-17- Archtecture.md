@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "@Repository,@Controller,@Service"
+title:  "아키텍처"
 ---
 ## 아키텍처
 **애플리케이션 아키텍처**
